@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= B
+game= Bhelp
+stayinchannel=true
+songinstatus=true 
+token=NTI3ODYxODg3MDQwNDg3NDYw.DwZ5aA.KkS_5myCRn3No3bSvPH3JcYbXfo
+owner=449850974065131530
